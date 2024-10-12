@@ -1,0 +1,10 @@
+/target
+/.vscode
+/.history
+/test/bin
+# Gl用于内部测试!
+/Gl
+*.exe
+*.so
+*.dll
+test.*
